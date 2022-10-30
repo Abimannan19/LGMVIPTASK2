@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<nutrition xmlns="http://www.deitel.com/nutrition">
+    <productname>Butter Cookies</productname>
+    <servingsize>1 pack</servingsize>
+    <calories>260</calories>
+    <fatcalories>100</fatcalories>
+    <gramsfat>11</gramsfat>
+    <saturatedfat>2</saturatedfat>
+    <mgcholestrol>5</mgcholestrol>
+    <sodium>210</sodium>
+    <carbohydrates>36</carbohydrates>
+    <fiber>2</fiber>
+    <sugar>15</sugar>
+    <protein>5</protein>
+</nutrition>
